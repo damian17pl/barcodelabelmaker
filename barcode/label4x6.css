@@ -1,0 +1,64 @@
+body {
+	height: 6in;
+	width: 4in;
+	background-color: #FFF;
+}
+#style {
+	
+	
+}
+
+
+
+p {
+	text-align: left;
+}
+
+
+#main {
+	font-family: Verdana, Geneva, sans-serif;
+	height: 6in;
+	width: 4in;
+	font-size: 10px;
+	color: #000;
+	font-weight: bold;
+	background-image: url(bg46.png);
+	}
+#box {
+	width: 386px;
+	height: 568px;
+	margin-top: 1px;
+}
+
+
+@page {
+  size: 4in 6in;
+}
+
+
+
+
+header h1, header nav, footer, {
+display: none;
+}
+
+
+
+
+header .print {
+display: block;
+}
+
+
+
+
+
+
+@page {
+  margin: 0cm;
+}
+
+* {
+    -webkit-print-color-adjust: exact !important;   /* Chrome, Safari */
+    color-adjust: exact !important;                 /*Firefox*/
+}

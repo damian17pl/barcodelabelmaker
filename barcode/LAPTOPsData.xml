@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<laptopstore>
+  <mfg category="DELL">
+    <model>Latitude E7250</model>
+    <cpu>i5</cpu>
+    <ram>8GB</ram>
+    <storage>SSD</storage>
+  </mfg>
+</laptopstore>
